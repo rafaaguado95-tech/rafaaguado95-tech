@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Rafa 👋</h1>
+<h1 align="center">Rafael Aguado Duque</h1>
 
 <p align="center">
   <b>Administrador de Sistemas</b> · Infraestructura, virtualización y automatización · Valencia, España
@@ -11,37 +11,37 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
-- 🏢 Actualmente trabajo como administrador de sistemas
-- 🖥️ Trabajo con servidores Windows y Linux, Microsoft 365, virtualización y monitorización
-- ⚙️ Me gusta dejar los entornos estables, documentados y automatizados
-- 🎓 Estudiando el CFGS de Administración de Sistemas Informáticos en Red (ASIR)
-- 📚 Preparando la certificación **Cisco CCNA**
+- Actualmente trabajo como administrador de sistemas
+- Trabajo con servidores Windows y Linux, Microsoft 365, virtualización y monitorización
+- Me gusta dejar los entornos estables, documentados y automatizados
+- Estudiando el CFGS de Administración de Sistemas Informáticos en Red (ASIR)
+- Preparando la certificación **Cisco CCNA**
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 **Sistemas**
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square)
 
 **Virtualización y contenedores**
 
-![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
 **Automatización y gestión**
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Uyuni](https://img.shields.io/badge/Uyuni-30BA78?style=flat-square&logoColor=white)
+![Uyuni](https://img.shields.io/badge/Uyuni-30BA78?style=flat-square)
 ![Icinga](https://img.shields.io/badge/Icinga-06062C?style=flat-square&logo=icinga&logoColor=white)
 
 **Desarrollo**
@@ -54,7 +54,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -62,15 +62,15 @@
 | [**StayFlow**](https://github.com/rafaaguado95-tech/StayFlow) | Aplicación web de gestión hotelera con login, panel de control y CRUD completo | Python · Flask · SQLite |
 | [**FullStack**](https://github.com/rafaaguado95-tech/FullStack) | Blog personal con backend en Python y base de datos SQLite | Python · Flask · Jinja2 |
 
-### 🏠 Homelab
+### Homelab
 
 Mi laboratorio para practicar y probar antes de llevar nada a producción:
 
-- 🖧 Servidor **Proxmox VE** en un mini PC, con acceso remoto mediante **Tailscale**
-- 💻 Máquinas virtuales con Windows Server, Windows 10 y Ubuntu
-- 🔜 En marcha: gestor de contraseñas autoalojado, copias de seguridad programadas y NAS
+- Servidor **Proxmox VE** en un mini PC, con acceso remoto mediante **Tailscale**
+- Máquinas virtuales con Windows Server, Windows 10 y Ubuntu
+- En marcha: gestor de contraseñas autoalojado, copias de seguridad programadas y NAS
 
-### 🎓 Formación
+### Formación
 
 - **CFGS Administración de Sistemas Informáticos en Red (ASIR)** · en curso (2027)
 - **CFGM Sistemas Microinformáticos y Redes (SMR)** · CIPFP Mislata
