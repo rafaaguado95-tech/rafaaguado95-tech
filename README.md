@@ -1,18 +1,16 @@
 # Rafael Aguado Duque
 
-**Administrador de Sistemas** · Infraestructura, seguridad y automatización · Valencia, España
+**Técnico de Sistemas** · Infraestructura, virtualización y automatización · Valencia, España
 
-Administrador de sistemas en una empresa de comunicaciones certificadas y firma electrónica. Me ocupo de servidores Windows y Linux, identidades y dispositivos en la nube de Microsoft, virtualización, monitorización y seguridad perimetral, con el foco puesto en entornos estables, documentados y automatizados.
+Técnico de sistemas en una empresa del sector tecnológico. Trabajo con servidores Windows y Linux, virtualización y gestión de usuarios y dispositivos en Microsoft 365, con el foco puesto en entornos estables, documentados y automatizados.
 
-Antes de dedicarme a la informática pasé seis años en las Fuerzas Armadas y después trabajé en seguridad privada. De ahí viene mi forma de trabajar: procedimientos claros, calma bajo presión y responsabilidad sobre los sistemas que mantengo.
+Antes de dedicarme a la informática pasé seis años en el Ejército de Tierra y también tengo experiencia en seguridad privada. De ahí viene mi forma de trabajar: procedimientos claros, calma bajo presión y responsabilidad sobre los sistemas que mantengo.
 
 ## Áreas de trabajo
 
-- **Sistemas:** Windows Server, Linux (Rocky Linux, Ubuntu), Active Directory, Microsoft Entra ID (SSO), Intune
+- **Sistemas:** Windows Server, Linux, Active Directory, Microsoft 365, Entra ID, Intune
 - **Virtualización y contenedores:** Proxmox VE, Podman
-- **Automatización y gestión:** Ansible, PowerShell, Bash, Uyuni (Content Lifecycle Management)
-- **Seguridad:** Wazuh (SIEM), FortiGate, Cloudflare WAF, auditorías OpenSCAP (CIS, ENS), operación SOC/NOC
-- **Monitorización:** Icinga
+- **Automatización:** Ansible, PowerShell, Bash
 - **Desarrollo:** Python, Flask, SQL / SQLite, HTML, CSS, JavaScript
 
 ## Proyectos destacados
@@ -25,11 +23,11 @@ Antes de dedicarme a la informática pasé seis años en las Fuerzas Armadas y d
 
 ## Laboratorio personal
 
-Mantengo un homelab propio para practicar y probar antes de llevar nada a producción:
+Mantengo un homelab propio para practicar y aprender nuevas tecnologías:
 
-- Servidor **Proxmox VE** en un mini PC, con acceso remoto seguro mediante **Tailscale**
-- Laboratorio de máquinas virtuales con Windows Server, Windows 10, Ubuntu y Kali Linux
-- En marcha: gestor de contraseñas autoalojado, copias de seguridad programadas y NAS
+- Servidor **Proxmox VE** en un mini PC
+- Laboratorio de máquinas virtuales con Windows Server, Windows 10 y Ubuntu
+- En marcha: copias de seguridad programadas y NAS
 
 ## Formación
 
@@ -39,7 +37,6 @@ Mantengo un homelab propio para practicar y probar antes de llevar nada a produc
 ## Ahora mismo
 
 - Preparando la certificación **Cisco CCNA**
-- Ciberseguridad defensiva (blue team) con práctica en TryHackMe y Hack The Box
 
 ## Contacto
 
